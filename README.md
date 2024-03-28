@@ -11,6 +11,7 @@ Deployed to:` 0x48b17770D19302ed5b86C93b299992d9fbc2cDFF`
  # socialmedia-ddapp_ENS-services
 
 Deployer: 0x3fb7B6793bF753E74bf776ff386256a7FD9F7bee
-Deployed to: 0x891Ce6e1B6c88452f4d49041B68F048812DFbF2C
-Transaction hash: 0x367e3f1be7b29f71e9ea64bead945e6c21b0e7413d61e3a41f5e60524b71b4f2
+Deployed to: `0x272F736bC48c2BF92d2C3fD460c2bE4299D22fB7 `   
+Transaction hash: 0x893b5b8d905819cc082e76389f48f30259a0bb30fad4a9d19d80c85de2b48920
+
 
